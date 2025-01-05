@@ -1,2 +1,8 @@
-"Use Strict" => It catches mistakes that JavaScript might usually ignore;\n
-Print: Using console.log()
+# JavaScript Basics: "use strict" and console.log()
+
+## "use strict"
+The `"use strict"` directive in JavaScript enforces a stricter set of rules for your code. It helps catch common mistakes and unsafe actions that JavaScript might otherwise ignore, such as:
+
+- Assigning values to undeclared variables.
+- Using reserved keywords as variable names.
+- Writing duplicate parameter names in function;
